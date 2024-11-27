@@ -1,5 +1,5 @@
 # Energy-efficiency-actuators
-This repository stores the supplementary materials for the Energy Efficiency Actuator by Energy Recycling and Passive Dynamics
+This repository stores the supplementary materials for the Quasi-Passive-Dynamics-based Energy-Efficient Elastic Actuator (QPD-EA)
 
 ## Movie S1.
 The proposed actuator concept video explains the background, idea, and the entire
