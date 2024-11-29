@@ -1,6 +1,8 @@
 # Supplementary Materials
 This repository stores the supplementary materials for the Quasi-Passive-Dynamics-based Energy-Efficient Elastic Actuator (QPD-EA)
 
+![schematic](./Figure/schematic%20diagram.png)
+
 ## Movie S1.
 The video explains the background, idea, and the entire
 working process, showing the prototype and mainly demonstrating how the QPD-EA recycles energy and utilizes passive dynamics.
